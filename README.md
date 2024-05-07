@@ -1,4 +1,4 @@
-### Olá, eu sou Mari!
+### Olá, eu sou a Mari!
 
 <p>Atualmente, trabalhando como desenvolvedora front-end e cursando o último ano de sistemas de informação na Puc Campinas. Meu trabalho consiste em criar experiências significativas e sou completamente apaixonada por isso. Vamos conversar?</p>
 
